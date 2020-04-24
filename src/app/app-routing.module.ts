@@ -12,5 +12,5 @@ import { AboutComponent } from './about.component';
     ])
   ],
   exports: [ RouterModule ] // re-export the module declarations
-})
+});
 export class AppRoutingModule { };
